@@ -23,7 +23,7 @@ A visually rich, animated cocktail bar website built with **React**, **GSAP**, a
 1. Clone the repository:
    ```sh
    git clone https://github.com/zamirguliyev/gsap.git
-   cd gsap_cocktails-main
+   cd gsap
    ```
 
 2. Install dependencies:
